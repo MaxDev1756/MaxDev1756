@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaxDev1756
-- 👀 It is know my first complete years working as a developper.
+- 👀 It is know my first complete year working as a developper.
 - 🌱 I’m currently working on API's.
 - 💞️ I’m looking to collaborate on project for business, to develop my skills
 
